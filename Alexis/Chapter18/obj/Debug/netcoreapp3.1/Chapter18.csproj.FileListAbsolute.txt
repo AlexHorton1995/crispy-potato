@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\bin\Debug\netcoreapp3.1\Chapter18.exe
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\bin\Debug\netcoreapp3.1\Chapter18.deps.json
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\bin\Debug\netcoreapp3.1\Chapter18.runtimeconfig.json
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\bin\Debug\netcoreapp3.1\Chapter18.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\bin\Debug\netcoreapp3.1\Chapter18.dll
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\bin\Debug\netcoreapp3.1\Chapter18.pdb
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\obj\Debug\netcoreapp3.1\Chapter18.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\obj\Debug\netcoreapp3.1\Chapter18.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\obj\Debug\netcoreapp3.1\Chapter18.AssemblyInfo.cs
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\obj\Debug\netcoreapp3.1\Chapter18.dll
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\obj\Debug\netcoreapp3.1\Chapter18.pdb
+C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter18\obj\Debug\netcoreapp3.1\Chapter18.genruntimeconfig.cache
