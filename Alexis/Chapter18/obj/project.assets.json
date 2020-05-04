@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {}
+    "C:\\Users\\Alexis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\AlexHorton1995\\crispy-potato\\Alexis\\Chapter18\\Chapter18.csproj",
+      "projectUniqueName": "C:\\Users\\Alexis\\Source\\Repos\\AlexHorton1995\\crispy-potato\\Alexis\\Chapter18\\Chapter18.csproj",
       "projectName": "Chapter18",
-      "projectPath": "C:\\Users\\Alex\\source\\repos\\AlexHorton1995\\crispy-potato\\Alexis\\Chapter18\\Chapter18.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\source\\repos\\AlexHorton1995\\crispy-potato\\Alexis\\Chapter18\\obj\\",
+      "projectPath": "C:\\Users\\Alexis\\Source\\Repos\\AlexHorton1995\\crispy-potato\\Alexis\\Chapter18\\Chapter18.csproj",
+      "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alexis\\Source\\Repos\\AlexHorton1995\\crispy-potato\\Alexis\\Chapter18\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
