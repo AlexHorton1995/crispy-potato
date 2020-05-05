@@ -11,3 +11,16 @@ C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Deb
 C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.dll
 C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.pdb
 C:\Users\Alex\source\repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.genruntimeconfig.cache
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\bin\Debug\netcoreapp3.1\Chapter15.exe
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\bin\Debug\netcoreapp3.1\Chapter15.deps.json
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\bin\Debug\netcoreapp3.1\Chapter15.runtimeconfig.json
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\bin\Debug\netcoreapp3.1\Chapter15.runtimeconfig.dev.json
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\bin\Debug\netcoreapp3.1\Chapter15.dll
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\bin\Debug\netcoreapp3.1\Chapter15.pdb
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.csprojAssemblyReference.cache
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.AssemblyInfoInputs.cache
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.AssemblyInfo.cs
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.dll
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.pdb
+C:\Users\Alexis\Source\Repos\AlexHorton1995\crispy-potato\Alexis\Chapter15\obj\Debug\netcoreapp3.1\Chapter15.genruntimeconfig.cache

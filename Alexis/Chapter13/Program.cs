@@ -14,6 +14,17 @@ namespace Chapter13
     {
         static void Main(string[] args)
         {
+            string[] palindromes = new string[] { "Anna", "Civic", "Kayak", "Level", "Madam", "Mom", "Noon", "Racecar", "Radar", "Redder", "Refer", "Repaper", "Rotator", "Rotor", "Sagas", "Solos", "Stats", "Tenet", "Wow" };
+
+
+            foreach (var paliLengths in palindromes)
+            {
+                Console.WriteLine(paliLengths + " " + paliLengths.Length);
+            }
+            Console.ReadLine();
+
+
+
         }
     }
 }
