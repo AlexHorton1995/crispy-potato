@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.ExceptionServices;
+using System.Threading;
 
 namespace Chapter15
 {
@@ -19,25 +19,36 @@ namespace Chapter15
     /// </summary>
     class Program
     {
-        enum fibSeq 
-        { fib1 = 1, fib2 = 1, fib3 = 2, fib4 = 3, fib5 = 5, 
-          fib6 = 8, fib7 = 13, fib8 = 21, fib9 = 34, fib10 = 55};
         static void Main(string[] args)
         {
-            /*
-            var gNumbers = GenerateNumbers(3);
-            Reverse(gNumbers);
-            PrintNumbers(gNumbers);
-            
-            Console.ReadLine();
-            */
 
+            //var gNumbers = GenerateNumbers(3);
+            //Reverse(gNumbers);
+            //PrintNumbers(gNumbers);
+            int[] retFibon = new int[] { 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 };
+            int pretty3 = 0;
+            int pretty2 = 0;
+            int Pretty = 1;
+
+            foreach (var fibs in retFibon)
+            {
+                if (fibs > 0)
+                {
+                    Console.WriteLine("Fibonacci(" + Pretty++ + ") = " + fibs);
+                }
+
+            }
+            pretty3 = 3;
+            pretty2 = Fibonacci(pretty3);
+            Console.WriteLine("You chose Fibonacci(" + pretty3 + ") and that equals: " + pretty2);
+
+            Console.ReadLine();
 
         }
-        /*
+
         static int[] GenerateNumbers(byte num)
         {
-            List<int> retArray2 = new List<int>() 
+            List<int> retArray2 = new List<int>()
             {
                 45, 87, 6, 96, 2, 62, 30, 48, 7, 1
             };
@@ -67,48 +78,14 @@ namespace Chapter15
             }
             Console.WriteLine(@"Reversed numbers in array: " + prtStr.Remove(prtStr.Length - 2, 2));
         }
-        */
-
-        static void Fibonacci()
+        static int Fibonacci(int num)
         {
-            switch (fibSeq)
-            {
-                case 1:
-                    break;
-                case fib2:
-                    break;
-                case fibSeq.fib3:
-                    break;
-                case fibSeq.fib4:
-                    break;
-                case fibSeq.fib5:
-                    break;
-                case fibSeq.fib6:
-                    break;
-                case fibSeq.fib7:
-                    break;
-                case fibSeq.fib8:
-                    break;
-                case fibSeq.fib9:
-                    break;
-                case fibSeq.fib10:
-                    break;
-                default:
-                    break;
-            }
+            int[] retFibon = new int[] { 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 };
+
+
+            return retFibon[num];
         }
 
 
-
-
-
-
-
-
-
-
-
     }
-
-
 }
